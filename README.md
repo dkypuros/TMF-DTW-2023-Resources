@@ -8,3 +8,17 @@ Again, thank you for taking the time to review these resources and your interest
 [Visit the Catalyst Project Page](https://www.tmforum.org/catalysts/projects/C23.0.504)
 
 [![Catalyst Project Image](images/1.png)](https://www.tmforum.org/catalysts/projects/C23.0.504)
+
+### Complete 35 Min. Presentation of our Project
+
+1. [Introduction - Intelligent Edge for Sustainable Agriculture Phase II](https://youtu.be/STHplX84RN4)
+   
+2. [Crop Health & Intelligent Edge](https://youtu.be/GS_OYptHLwU)
+
+3. [Animal Care & Intelligent Edge](https://youtu.be/uJPo2h4s3Gw)
+
+4. [Sustainability Makes Business Sense](https://youtu.be/qWm-VTg1CY8)
+
+5. [Open and Flexible Blueprint and Lab Validation](https://youtu.be/vFEXru8IIvw)
+
+6. [Summary](https://youtu.be/0dBMu2nZqkk)
