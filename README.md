@@ -5,20 +5,20 @@ Again, thank you for taking the time to review these resources and your interest
 
 ### Main TM Forum Digital Transformation World 2023 - Catalyst Page
 
-[Visit the Catalyst Project Page](https://www.tmforum.org/catalysts/projects/C23.0.504)
+<a href="https://www.tmforum.org/catalysts/projects/C23.0.504" target="_blank">Visit the Catalyst Project Page</a>
 
-[![Catalyst Project Image](images/1.png)](https://www.tmforum.org/catalysts/projects/C23.0.504)
+<a href="https://www.tmforum.org/catalysts/projects/C23.0.504" target="_blank"><img src="images/1.png" alt="Catalyst Project Image"></a>
 
 ### Complete 35 Min. Presentation of our Project
 
-1. [Introduction - Intelligent Edge for Sustainable Agriculture Phase II](https://youtu.be/STHplX84RN4)
-   
-2. [Crop Health & Intelligent Edge](https://youtu.be/GS_OYptHLwU)
+1. <a href="https://youtu.be/STHplX84RN4" target="_blank">Introduction - Intelligent Edge for Sustainable Agriculture Phase II</a>
 
-3. [Animal Care & Intelligent Edge](https://youtu.be/uJPo2h4s3Gw)
+2. <a href="https://youtu.be/GS_OYptHLwU" target="_blank">Crop Health & Intelligent Edge</a>
 
-4. [Sustainability Makes Business Sense](https://youtu.be/qWm-VTg1CY8)
+3. <a href="https://youtu.be/uJPo2h4s3Gw" target="_blank">Animal Care & Intelligent Edge</a>
 
-5. [Open and Flexible Blueprint and Lab Validation](https://youtu.be/vFEXru8IIvw)
+4. <a href="https://youtu.be/qWm-VTg1CY8" target="_blank">Sustainability Makes Business Sense</a>
 
-6. [Summary](https://youtu.be/0dBMu2nZqkk)
+5. <a href="https://youtu.be/vFEXru8IIvw" target="_blank">Open and Flexible Blueprint and Lab Validation</a>
+
+6. <a href="https://youtu.be/0dBMu2nZqkk" target="_blank">Summary</a>
